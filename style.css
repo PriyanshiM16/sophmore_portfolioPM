@@ -1,36 +1,40 @@
 body{
-Background-color: lightpink;
-  
+Background-color: lightpink; 
 }
 img{
-width: 250px;
-  
+   align: center
+width: 250px;  
 }
 button{
-
+   align: center
 padding: 15px;
 }
   
 p{
 color: darkpink;
-  font-family: atma;
-  
+   align: center
+  font-family: atma; 
 }
 h1{
   color: darkpink;
+   align: center
   font-family: atma;
 }
 h2{
 color: darkpink;
+   align: center
   font-family: atma;
 }
 .container{
-
 color: darkpink;
+   align: center
   font-family: atma;
-
-  
 }
+ p {
+   font-size: 30px; 
+   align: center
+ }
+
 
   
 
