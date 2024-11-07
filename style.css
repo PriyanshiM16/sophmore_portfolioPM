@@ -2,8 +2,7 @@ body{
 Background-color: lightpink; 
 }
 img{
- 
-   margin: auto;
+ align-self: center;
 width: 250px;  
 }
 button{
