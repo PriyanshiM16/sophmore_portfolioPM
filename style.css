@@ -2,7 +2,7 @@ body{
 Background-color: lightpink; 
 }
 img{
-   text-align: center;
+   float: center;
 width: 250px;  
 }
 button{
