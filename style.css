@@ -36,6 +36,8 @@ color: darkpink;
 
 .container {
 align-self: center;
+ justify-content: center;
+ flex-direction: row-reverse;
 }
 
   
