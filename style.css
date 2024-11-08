@@ -34,6 +34,9 @@ color: darkpink;
    text-align: center; 
  }
 
+.container {
+align-self: center;
+}
 
   
 
