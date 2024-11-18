@@ -47,7 +47,22 @@ color: darkpink;
   font-family: atma;
 }
 
+.navbar ul{
+list-style-type: none;
+ background-color: black;
+ overflow: hidden;
+}
+.navbar a{
+color: pink;
+ display: block;
+}
 
+.navbar a:hover{
+background-color: grey;
+}
+.navbar li{
+float: left;
+}
 
   
 
