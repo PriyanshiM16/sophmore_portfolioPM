@@ -1,5 +1,5 @@
 body{
-Background-color: #ffdeee; 
+Background-color: lightGrey; 
 }
 img{
  align-self: center;
@@ -43,7 +43,7 @@ flex;
 }
 
 h3{
-color: darkpink;
+color: black;
   font-family: atma;
 }
 
